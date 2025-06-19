@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\project19\DataBusnissLayer\bin\Debug\DataBusnissLayer.dll
+C:\Users\LENOVO\source\repos\project19\DataBusnissLayer\bin\Debug\DataBusnissLayer.pdb
+C:\Users\LENOVO\source\repos\project19\DataBusnissLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\LENOVO\source\repos\project19\DataBusnissLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\LENOVO\source\repos\project19\DataBusnissLayer\obj\Debug\DataBusnissLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\project19\DataBusnissLayer\obj\Debug\DataBusnissLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\project19\DataBusnissLayer\obj\Debug\DataBusn.7BFA45FA.Up2Date
+C:\Users\LENOVO\source\repos\project19\DataBusnissLayer\obj\Debug\DataBusnissLayer.dll
+C:\Users\LENOVO\source\repos\project19\DataBusnissLayer\obj\Debug\DataBusnissLayer.pdb

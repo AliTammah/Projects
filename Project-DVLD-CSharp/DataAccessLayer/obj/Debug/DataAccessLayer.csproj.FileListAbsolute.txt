@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\project19\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\LENOVO\source\repos\project19\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\LENOVO\source\repos\project19\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\project19\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\project19\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\LENOVO\source\repos\project19\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
