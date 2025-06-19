@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Login Project\bin\Debug\Login Project.exe.config
+C:\Users\LENOVO\source\repos\Login Project\bin\Debug\Login Project.exe
+C:\Users\LENOVO\source\repos\Login Project\bin\Debug\Login Project.pdb
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login Project.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login_Project.Form1.resources
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login_Project.Form2.resources
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login_Project.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login Project.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login Project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login Project.exe
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login Project.pdb
+C:\Users\LENOVO\source\repos\Login Project\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login Project.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login_Project.Form3.resources
+C:\Users\LENOVO\source\repos\Login Project\obj\Debug\Login_Project.Form4.resources
