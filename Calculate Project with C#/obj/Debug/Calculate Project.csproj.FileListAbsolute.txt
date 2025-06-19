@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Calculate Project\bin\Debug\Calculate Project.exe.config
+C:\Users\LENOVO\source\repos\Calculate Project\bin\Debug\Calculate Project.exe
+C:\Users\LENOVO\source\repos\Calculate Project\bin\Debug\Calculate Project.pdb
+C:\Users\LENOVO\source\repos\Calculate Project\obj\Debug\Calculate Project.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Calculate Project\obj\Debug\Calculate Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Calculate Project\obj\Debug\Calculate_Project.Form1.resources
+C:\Users\LENOVO\source\repos\Calculate Project\obj\Debug\Calculate_Project.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Calculate Project\obj\Debug\Calculate Project.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Calculate Project\obj\Debug\Calculate Project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Calculate Project\obj\Debug\Calculate Project.exe
+C:\Users\LENOVO\source\repos\Calculate Project\obj\Debug\Calculate Project.pdb
