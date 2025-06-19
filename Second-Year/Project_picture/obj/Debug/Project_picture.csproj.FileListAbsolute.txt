@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Project_picture\bin\Debug\Project_picture.exe.config
+C:\Users\LENOVO\source\repos\Project_picture\bin\Debug\Project_picture.exe
+C:\Users\LENOVO\source\repos\Project_picture\bin\Debug\Project_picture.pdb
+C:\Users\LENOVO\source\repos\Project_picture\obj\Debug\Project_picture.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Project_picture\obj\Debug\Project_picture.Form1.resources
+C:\Users\LENOVO\source\repos\Project_picture\obj\Debug\Project_picture.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Project_picture\obj\Debug\Project_picture.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Project_picture\obj\Debug\Project_picture.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Project_picture\obj\Debug\Project_picture.exe
+C:\Users\LENOVO\source\repos\Project_picture\obj\Debug\Project_picture.pdb
+C:\Users\LENOVO\source\repos\Project_picture\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\source\repos\Project_picture\obj\Debug\Project_.CB4AF564.Up2Date

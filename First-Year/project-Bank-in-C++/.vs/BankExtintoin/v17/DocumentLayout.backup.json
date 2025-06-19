@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20785DE-FFBE-4DA8-BD2D-7241EB414BDC}|BankExtintoin.vcxproj|C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20785DE-FFBE-4DA8-BD2D-7241EB414BDC}|BankExtintoin.vcxproj|solutionrelative:clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20785DE-FFBE-4DA8-BD2D-7241EB414BDC}|BankExtintoin.vcxproj|C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20785DE-FFBE-4DA8-BD2D-7241EB414BDC}|BankExtintoin.vcxproj|solutionrelative:clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20785DE-FFBE-4DA8-BD2D-7241EB414BDC}|BankExtintoin.vcxproj|C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\BankExtintoin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20785DE-FFBE-4DA8-BD2D-7241EB414BDC}|BankExtintoin.vcxproj|solutionrelative:BankExtintoin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "clsFindCurrencyScreen.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "clsFindCurrencyScreen.h",
+              "ViewState": "AgIAAAAAAADnAAAAAIAZwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T18:35:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "clsAddNewClientScreen.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\clsAddNewClientScreen.h*",
+              "RelativeToolTip": "clsAddNewClientScreen.h*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T18:14:42.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankExtintoin.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\BankExtintoin.cpp",
+              "RelativeDocumentMoniker": "BankExtintoin.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\project\u0027s tamah\\My-repos-main\\project Bank in C\u002B\u002B\\BankExtintoin.cpp",
+              "RelativeToolTip": "BankExtintoin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T20:51:57.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

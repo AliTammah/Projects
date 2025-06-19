@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+body{
+
+    font-family: "Cairo",
+    system-ui;
+
+}
+*{
+    box-sizing: border-box;
+
+}
+.container-fluid{
+}
+/*  */
+.navbar-collapse li:hover{
+    background-color: white;
+    border-radius: 30px;
+    color:black;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+.navbar-expand-lg{
+    background-color:rgba(211, 225, 214);
+}
+.navbarheader{
+    background-color: none;
+
+}
+header a{
+    color: rgb(169, 56, 56);
+    float: right;
+    margin:5px;          
+}
+header {
+    background-color: rgba(49, 89, 80, 0.125);
+    /* background-color: rgba(200, 195, 190, 0.591); */
+    margin: 3px;
+    height: 50px;
+    line-height: 50px;
+}
+nav{
+    background-color: rgba(43, 43, 56, 0.593);
+    color: rgb(11, 170, 61);
+
+}
+nav div a img{
+    width: 50px;
+    height: 50px;
+    float: left;
+    /* margin-left: 20px; */
+    border-radius: 150px;
+}
+
+.navbarheader{
+    /* background-color: rgba(13, 78, 243, 0.891); */
+    color: white;
+    position: sticky;
+    top: -10px;
+    z-index: 1000;
+    
+}
+nav div a {
+    color: black;
+    font-weight: bold;
+}
+
+
+/* start features */
+
+.feutures {
+    /* background-color: rgba(211, 225, 214, 0.331); */
+}
+
+
+
+.feutures i {
+ /* width: 100%;  */
+ /* height: 100%; */
+ /* line-height: 100px; */
+ /* color:rgb(0, 255, 0); */
+ /* font-size: 50px; */
+
+
+}
+.feutures h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.card{
+    box-sizing:border-box;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    /* padding: 1%; */
+    /* margin-top: 7px ;  */
+    /* width: 23%; */
+    /* margin:auto; */
+
+
+}
+
+/* end features */
+
+.VideoHead{
+    width: 180%;
+    height: 20px;
+}
+
+video{
+ margin: auto;
+ /* size: 300px; */
+ width: 50%;
+ height: 80%;
+}
+
+.feutures button:hover {
+    background-color:rgb(255, 255, 255);
+    color:black;
+    border-radius: 4px solid red ;
+    /* 2-webkit-border-radius:; */
+    -moz-border-radius: 4px solid red ;
+    -ms-border-radius: 4px solid red ;
+    -o-border-radius: 4px solid red ;
+    -webkit-border-radius: 4px solid red ;
+}
+
+footer{
+    margin: 10px 0px;
+   
+}
+
+
+
+/*  start blogs */
+.jumbotron{
+    display: flex;
+    justify-content: space-between;
+}
+
+.jumbotron .blog_info{
+    flex:2;
+}
+.jumbotron .blog_image {
+    flex:1;
+}
+
+
+.Bolg_Details p{
+    line-height: 2 ;
+    padding: 10px;
+}
+
+
+
+
+/* end blogs  */
+
+
+.courses img:hover {
+   transform: scale(1.1);
+   /* overflow: hidden; */
+   -webkit-transform: scale();
+   -moz-transform: scale();
+   -ms-transform: scale();
+   -o-transform: scale();
+}
+.courses a{
+    text-decoration: none;
+}
